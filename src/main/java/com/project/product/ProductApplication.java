@@ -8,4 +8,5 @@ public class ProductApplication {
     public static void main(String[] args) {
         SpringApplication.run(com.project.product.ProductApplication.class, args);
     }
+
 }
